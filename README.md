@@ -22,7 +22,7 @@ pip install -r requirements
 ```
 
 ```
-pip app.py
+python app.py
 ```
 
 
