@@ -13,7 +13,7 @@ Manage to predict future stock close is a efficient tool in order to safely allo
 
 
 
-![](/home/user/projects/stock-predictor/noGit/Stock-Predictor-Udacity-capstone/SystemExample.png)
+![](SystemExample.png)
 
 ## Install 
 
