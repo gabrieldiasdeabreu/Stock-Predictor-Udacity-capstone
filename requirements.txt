@@ -20,7 +20,6 @@ dash-table==4.11.2
 decorator==4.4.2
 defusedxml==0.7.0
 entrypoints==0.3
-fix-yahoo-finance==0.1.37
 Flask==1.1.2
 Flask-Compress==1.9.0
 flatbuffers==1.12
