@@ -25,7 +25,14 @@ pip install -r requirements
 python src/app.py
 ```
 
+## Libraries 
 
++ yfinance
++ keras
++ tensorflow
++ pandas
++ numpy
++ dash
 
 ## Project Structure
 
